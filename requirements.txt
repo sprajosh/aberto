@@ -1,4 +1,4 @@
-Django==3.0.4
+Django==3.0.7
 uvicorn==0.11.3
 fastapi==0.52.0
 grequests==0.4.0
